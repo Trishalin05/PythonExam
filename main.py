@@ -115,3 +115,5 @@ coffee_yield = df[df['Crop_type'] == 'coffee']['Annual_yield']
 banana_yield = df[df['Crop_type'] == 'banana']['Annual_yield']
 t_stat, p_value = ttest_ind(coffee_yield, banana_yield, equal_var=False)
 print(f"P-value: {round(p_value, 3)}")
+
+# https://github.com/Trishalin05/PythonExam.git
