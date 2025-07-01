@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90158dc-49ea-4f9a-9462-dd168c4bbb60" name="Changes" comment="Committing my Re4gression Exam to Local" />
+    <list default="true" id="e90158dc-49ea-4f9a-9462-dd168c4bbb60" name="Changes" comment="Committing my work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +20,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Trishalin05"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Trishalin05&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Trishalin05/PythonExam.git",
-    "accountId": "6fb30d67-1045-444e-8dbb-7c3732fab260"
+    "accountId": "a74ab300-c0ee-4a59-8b3d-6cae1cc08e78"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2yaNZm6Mqig0YJXa8QbVeCrK5HY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,6 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/trishalinpillay/PycharmProjects/PythonExam",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,14 +64,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AllOtherModules" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
-        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -82,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1750068781600</updated>
       <workItem from="1750068782727" duration="12676000" />
+      <workItem from="1751390853578" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="Committing my Exam to Local">
       <option name="closed" value="true" />
@@ -107,7 +110,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750418049831</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Committing my work">
+      <option name="closed" value="true" />
+      <created>1751391036907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751391036907</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Committing my work">
+      <option name="closed" value="true" />
+      <created>1751391050902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751391050902</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Committing my Exam to Local" />
     <MESSAGE value="Committing my Re4gression Exam to Local" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing my Re4gression Exam to Local" />
+    <MESSAGE value="Committing my work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing my work" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonExam$Test.coverage" NAME="Test Coverage Results" MODIFIED="1750404462035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
